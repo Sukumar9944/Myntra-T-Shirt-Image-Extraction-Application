@@ -14,6 +14,9 @@ This Streamlit application allows users to  extract and explore images of T-shir
 
 - **Download Image**: Users can download the currently displayed image with a single click using the "Download Image" button.
 
+![Untitledvideo-MadewithClipchamp5-ezgif com-video-to-gif-converter (1)](https://github.com/Sukumar9944/Myntra-T-Shirt-Image-Extraction-Application/assets/132226144/a0342854-ff8b-4e7f-bbe7-1c386811eef5)
+
+
 ## Prerequisites
 
 - Install required Python packages using `pip install -r requirements.txt`
