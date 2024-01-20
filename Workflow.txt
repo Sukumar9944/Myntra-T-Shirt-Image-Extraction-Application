@@ -1,0 +1,13 @@
+Workflow:
+
+1. Get the meta data of the image and store it in the csv file along with the image urls.
+
+i. Five brands - Roadster, Frisker, HRX by Hrithik Roshan, WROGN, Tommy Hilfiger.
+
+ii. Meta data - Brand, Desc, Detailed desc, Image url.
+
+iii. Total Images - 1000
+
+
+2. Save the images in Folder Specifying Brands in Hard disk using os module.
+
