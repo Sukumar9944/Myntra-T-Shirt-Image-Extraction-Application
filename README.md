@@ -24,11 +24,15 @@ This Streamlit application allows users to  extract and explore images of T-shir
 
    ```bash
    git clone https://github.com/your-username/myntra-image-extraction.git
+   ```
 
 2. Run the Streamlit app:
 
-  ```bash
+   ```bash
    streamlit run app.py
+   ```
+
+3. Open your browser and navigate to http://localhost:8501 to access the application.
 
 ## Usage
 - Select a brand from the dropdown menu.
